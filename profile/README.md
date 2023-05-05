@@ -83,20 +83,7 @@ when they achieve a milestone.
 * Building assessments
 * Designing the milestones and metrics for incentivizing the learners
 * Analyse business impact
-* Launch an Alpha 
-
-##  Phase 3  Road Map
-
-* Building assessments based on (Learning-Transfer Evaluation / Kirk Patricks Model) for each course
-* Unable managers to customise KPI's to insure ROI 
-* Enable superfluid in the employer end to stream funds from employer wallet to Kalvi wallet
-* Launch a Beta
-
-##  Phase 4 Road Map
-
-* Building Personalised learning content based on learners generation (Gen-Z, Millennials, Gen X )using learning science (LS)
-* Building Personalised learning pathway based on users current skill level (Adaptive learning)
-* Launch a Beta
+* Launch an Alpha
 
 ## Developers
 
