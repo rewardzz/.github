@@ -33,9 +33,6 @@ The inspiration for our idea came from the following pointers.
 * Incentivizing learners and content creators
 * Enable content creator to influence learners behavior (Behavioral economics)
 
-## Design Document
-* [Design Thinking](https://github.com/KalviOrg/kalvi-core/blob/main/docs/design.md)
-
 ## Our solution
 We built a Dapp that instantly rewards the learner as well the content creator.
 The content creator influences and incentivizes the learner by offering a reward
